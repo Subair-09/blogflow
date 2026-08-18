@@ -1,0 +1,6 @@
+{
+  "name": "BlogFlow",
+  "description": "A modern, professional blog platform and editorial management system with MongoDB persistence and Cloudinary image upload storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
